@@ -1,3 +1,3 @@
-# kkowa/kkowa
+# kkowa
 
 No description yet.
